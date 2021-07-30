@@ -1,0 +1,14 @@
+QUANTUM COMPUTING AND ITS POTENTIAL IN SCIENCES - A REVIEW
+
+ 
+    ABSTRACT
+          Quantum computing is used by computers that are data storage 
+ and computing machines that make advantage of quantum physics characteristics. The
+ quantum computers that are currently available are small, noisy prototypes, but the field is rapidly progressing. 
+ The biggest advantage of using quantum computing is its ability to solve problems in multidimensional spaces which
+ super computers may be incapable of. This aspect is looked upon to work on the technological advancements in the
+ field of science. The potential of quantum computers effectively explores thousands of combinations in parallel and
+ discards those that do not work. This opens up the possibility of reducing the time, financial, and labour costs
+ associated with developing new methodologies such as new discoveries in quantum-drug design, quantum-cryptography,
+ quantum-based security systems and so on. In this review, quantum computing is introduced along with the various 
+ scientific applications. This work also puts forth the way forward of quantum computing in the respective sciences.
